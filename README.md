@@ -1,0 +1,2 @@
+# winmerge0
+ 
