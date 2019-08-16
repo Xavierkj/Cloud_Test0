@@ -11,7 +11,7 @@ pool:
 
 variables:
   solution: 'Build.vs2017.sln'
-  buildPlatform: 'Any CPU'
+  buildPlatform: 'X64'
   buildConfiguration: 'Release'
 
 steps:
